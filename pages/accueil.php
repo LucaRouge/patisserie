@@ -9,5 +9,5 @@ for($i=0;$i<$nbr;$i++){
     print "<br>".$data[$i]['nom_ville']." | ".$data[$i]['code_postal'];
 }
 
-print "<br> branche ajout1 test encore";
+print "<br>essaie rajout branche ajout1 ";
 
