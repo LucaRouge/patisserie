@@ -9,3 +9,5 @@ for($i=0;$i<$nbr;$i++){
     print "<br>".$data[$i]['nom_ville']." | ".$data[$i]['code_postal'];
 }
 print "master";
+
+
